@@ -3,4 +3,7 @@
   <Folder Name="/src/Behavioral/">
     <Project Path="src/Behavioral/StrategyPattern/StrategyPattern.csproj" />
   </Folder>
+  <Folder Name="/src/Creational/">
+    <Project Path="src/Creational/FactoryMethodPattern/FactoryMethodPattern.csproj" />
+  </Folder>
 </Solution>
