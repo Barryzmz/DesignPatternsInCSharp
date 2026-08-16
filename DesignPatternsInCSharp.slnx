@@ -8,4 +8,7 @@
     <Project Path="src/Creational/FactoryMethodPattern/FactoryMethodPattern.csproj" />
     <Project Path="src/Creational/SimpleFactoryMethod/SimpleFactoryMethod.csproj" />
   </Folder>
+  <Folder Name="/src/Structural/">
+    <Project Path="src/Structural/DecoratorPattern/DecoratorPattern.csproj" />
+  </Folder>
 </Solution>
