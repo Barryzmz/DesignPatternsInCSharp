@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/src/" />
   <Folder Name="/src/Behavioral/">
+    <Project Path="src/Behavioral/ObserverPattern/ObserverPattern.csproj" />
     <Project Path="src/Behavioral/StrategyPattern/StrategyPattern.csproj" />
   </Folder>
   <Folder Name="/src/Creational/">
